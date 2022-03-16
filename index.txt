@@ -5,6 +5,12 @@
 </head>
 <body>
 
+<nav>
+	<a>Home</a>
+	<a>Blogs</a>
+	<a>People</a>
+</nav>
+
 <table>
 	<tr>
 		<th>Name</th>
